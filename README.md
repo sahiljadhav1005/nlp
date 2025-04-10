@@ -73,7 +73,7 @@ This mini project applies Natural Language Processing (NLP) and Machine Learning
 
 ---
 
-## Model Performance
+## ✅ Updated Model Performance
 
 | Model           | Accuracy | Precision (macro) | Recall (macro) | F1-Score (macro) |
 |----------------|----------|-------------------|----------------|------------------|
@@ -114,7 +114,8 @@ This mini project applies Natural Language Processing (NLP) and Machine Learning
 
 ---
 
-## Conclusion 
+
+## Conclusion
 This project demonstrates the effectiveness of combining NLP techniques with modern machine learning and deep learning models for fraud detection in transactional data. By analyzing the semantics and contextual patterns in transaction descriptions, the models can accurately distinguish between fraudulent and legitimate activities. The results show that transformer-based models like RoBERTa outperform traditional models, indicating their strong capability in understanding natural language nuances. Going forward, the integration of more real-world data, explainability techniques, and real-time systems will further enhance the system’s utility in financial fraud prevention.
 
 ## How to Run
@@ -122,3 +123,14 @@ This project demonstrates the effectiveness of combining NLP techniques with mod
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+3. Run the training pipeline:
+   ```bash
+   python fraud_detection_pipeline.py
+   ```
+4. For Transformer models, open:
+   ```bash
+   jupyter notebook bert_roberta_fraud_detection.ipynb
+   ```
+
+---
