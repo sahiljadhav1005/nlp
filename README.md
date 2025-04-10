@@ -114,6 +114,9 @@ This mini project applies Natural Language Processing (NLP) and Machine Learning
 
 ---
 
+## Conclusion 
+This project demonstrates the effectiveness of combining NLP techniques with modern machine learning and deep learning models for fraud detection in transactional data. By analyzing the semantics and contextual patterns in transaction descriptions, the models can accurately distinguish between fraudulent and legitimate activities. The results show that transformer-based models like RoBERTa outperform traditional models, indicating their strong capability in understanding natural language nuances. Going forward, the integration of more real-world data, explainability techniques, and real-time systems will further enhance the system’s utility in financial fraud prevention.
+
 ## How to Run
 1. Clone the repository.
 2. Install dependencies:
