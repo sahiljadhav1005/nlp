@@ -73,7 +73,7 @@ This mini project applies Natural Language Processing (NLP) and Machine Learning
 
 ---
 
-## ✅ Updated Model Performance
+## Model Performance
 
 | Model           | Accuracy | Precision (macro) | Recall (macro) | F1-Score (macro) |
 |----------------|----------|-------------------|----------------|------------------|
@@ -86,7 +86,6 @@ This mini project applies Natural Language Processing (NLP) and Machine Learning
 | **BERT**              | 0.96     | 0.96              | 0.96           | 0.96             |
 | **RoBERTa**           | 0.98     | 0.98              | 0.98           | 0.98             |
 
-> Metrics are estimated based on validation outcomes with minor generalization loss observed.
 
 ---
 
