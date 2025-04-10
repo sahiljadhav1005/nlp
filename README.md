@@ -73,7 +73,7 @@ This mini project applies Natural Language Processing (NLP) and Machine Learning
 
 ---
 
-## ✅ Updated Model Performance
+## Model Performance
 
 | Model           | Accuracy | Precision (macro) | Recall (macro) | F1-Score (macro) |
 |----------------|----------|-------------------|----------------|------------------|
